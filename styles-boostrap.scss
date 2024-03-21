@@ -1,0 +1,15 @@
+.nav-link:hover {
+  background-color: blue;
+  border-radius: 8px;
+}
+
+@media (max-width: 990px) {
+  .offcanvas {
+    position: fixed;
+    margin-top: 56px;
+  }
+
+  .navbar-nav {
+    text-align: center;
+  }
+}
